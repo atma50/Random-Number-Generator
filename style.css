@@ -7,11 +7,11 @@
   }
 
   #main-container {
-    max-width: 480px;
+    max-width: 440px; /* Reduce sized from 480px */
   }
   
   #number-container p {
-    font-size: 25px !important;
+    font-size: 20px !important; /* Reduce sized from 25px */
     margin: 5px;
     background-color: #f1c40f;
     display: inline-block;
