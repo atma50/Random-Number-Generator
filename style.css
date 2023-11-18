@@ -7,18 +7,18 @@
   }
 
   #main-container {
-    max-width: 440px; /* Reduce sized from 480px */
+    max-width: 350px; /* Reduce from 480px, changed to 350px */
   }
   
   #number-container p {
-    font-size: 20px !important; /* Reduce sized from 25px */
+    font-size: 14px !important; /* Reduce from 25px, changed to 14px */
     margin: 5px;
     background-color: #f1c40f;
     display: inline-block;
-    padding: 10px 20px;
+    padding: 3px 3px; /* Reduce from 10px 15px */
     border-radius: 5px;
-    width: 40px !important;
-    height: 30px !important;
+    width: 5px !important; /* Reduce from 40px to 5px */
+    height: 10px !important; /* Reduce from 30px to 10px */
     text-align: center;
     color: #fff;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
